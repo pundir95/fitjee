@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.dash-main {
+    width: calc(100% - 263px);
+    float: right;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
